@@ -74,5 +74,5 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-Kota Sreedhar Reddy
+Singampalli Yuva Chandrakanth
 Happy Coding! 🚀
